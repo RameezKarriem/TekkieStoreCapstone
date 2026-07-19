@@ -19,6 +19,6 @@ public class CartItemFactory {
                 .setQuantity(quantity)
                 .setSubTotal(subTotal)
                 .setUnitPrice(unitPrice)
-                .build();
+                .build() ;
     }
 }
